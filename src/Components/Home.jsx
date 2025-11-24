@@ -47,7 +47,7 @@ const Home = () => {
               Hire Me
             </a>
             <a
-              href="src/assets/DeepanshuCV.pdf"
+              href="/DeepanshuCV.pdf"
               download
               className="inline-flex items-center justify-center border border-blue-600 text-blue-600 dark:text-blue-400 font-semibold py-3 px-6 rounded-lg hover:bg-blue-600 hover:text-white transition duration-300 text-sm md:text-base group"
             >
@@ -86,7 +86,7 @@ const Home = () => {
           <div className="relative">
             <div className="rounded-2xl overflow-hidden shadow-xl bg-white dark:bg-gray-800 p-3 transition-colors duration-500 transform hover:-translate-y-2 hover:shadow-2xl transition-all duration-300">
               <img
-                src="src/assets/deepanshu.jpg"
+                src="/deepanshu.jpg"
                 alt="Deepanshu"
                 className="w-64 h-64 sm:w-72 sm:h-72 md:w-80 md:h-80 object-cover rounded-xl transform hover:scale-105 transition-transform duration-500"
               />

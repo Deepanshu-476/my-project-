@@ -76,7 +76,7 @@ const About = () => {
         <div className="flex-1 flex justify-center lg:justify-end lg:ml-[3in] order-1 lg:order-2">
           <div className="rounded-2xl overflow-hidden shadow-xl bg-white dark:bg-gray-800 p-3 transition-colors duration-500">
             <img
-              src="src/assets/deepanshu.jpg"
+              src="/deepanshu.jpg"
               alt="Deepanshu"
               className="w-64 h-64 sm:w-72 sm:h-72 md:w-80 md:h-80 object-cover rounded-xl"
             />

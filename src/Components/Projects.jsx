@@ -3,7 +3,7 @@ import React from 'react'
 const Projects = () => {
   const projects = [
     {
-      image: 'src/assets/portfolio1.png',
+      image: '/portfolio1.png',
       title: 'National Education Platform Website',
       description:
         'TeachToIndia is a national online education platform providing quality learning resources, skill-based courses, and career guidance for students across India.',
@@ -12,7 +12,7 @@ const Projects = () => {
       demo: 'https://www.teachtoindia.com',
     },
     {
-      image: 'src/assets/portfolio.jpg',
+      image: '/portfolio.jpg',
       title: 'Portfolio Website',
       description:
         'I design and develop beautiful, responsive websites that bring ideas to life.',
